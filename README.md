@@ -15,3 +15,8 @@ Problem Statement :
                  <li>Beginners, especially, often feel it difficult to breathe underwater which causes breathing trouble which in turn causes a drowning accident. Worldwide, drowning produces a higher rate of mortality without causing injury to children.</li>Children under six of their age are found to be suffering the highest drowning mortality rates worldwide. Such kinds of deaths account for the third cause of unplanned death globally, with about 1.2  million cases yearly. 
                  <li>To overcome this conflict, a meticulous system is to be implemented along the swimming pools to save human life.
 By studying body movement patterns and connecting cameras to artificial intelligence (AI) systems we can devise an underwater pool safety system that reduces the risk of drowning.</li>  
+
+
+## Technical Architecture : 
+
+![image](https://user-images.githubusercontent.com/96305967/192237739-876694f0-c23e-4ccb-8f38-a1d7d627809e.png)
