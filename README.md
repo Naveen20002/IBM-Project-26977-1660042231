@@ -12,8 +12,8 @@ VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
 
 
 ## TEAM MEMBERS
-- KISHORE KUMAR s
-- BARANI K   
+- KISHORE KUMAR 
+- BARANI    
 - KARTHIKA
 - BABHU GANESH
 
