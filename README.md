@@ -10,6 +10,13 @@
 # IBM-Project-26977-1660042231
 VirtualEye - Life Guard for Swimming Pools to Detect Active Drowning
 
+
+## TEAM MEMBERS
+- KISHORE KUMAR s
+- BARANI K   
+- KARTHIKA
+- BABHU GANESH
+
 Problem Statement : 
                  <li> Swimming is one of the best exercises that helps people to reduce stress in this urban lifestyle. Swimming pools are found larger in number in hotels, and weekend tourist spots and barely people have them in their house backyard.</li>
                  <li>Beginners, especially, often feel it difficult to breathe underwater which causes breathing trouble which in turn causes a drowning accident. Worldwide, drowning produces a higher rate of mortality without causing injury to children.</li>Children under six of their age are found to be suffering the highest drowning mortality rates worldwide. Such kinds of deaths account for the third cause of unplanned death globally, with about 1.2  million cases yearly. 
