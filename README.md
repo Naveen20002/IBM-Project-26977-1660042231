@@ -41,5 +41,5 @@ Problem Statement :
     - [x] Top 3 Ideas
   - Project Design Phase 1
     - [x] Proposed Solution
-    - [ ] Problem-Solution Fit
-    - [ ] Solution Architecture
+    - [x] Problem-Solution Fit
+    - [x] Solution Architecture
