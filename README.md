@@ -31,3 +31,16 @@ By studying body movement patterns and connecting cameras to artificial intellig
 ## PROJECT OVERVIEW
 ![image](https://user-images.githubusercontent.com/96305967/192242066-924d8cd1-f1f0-4176-b6d1-4bb6224a586e.png)
 
+### Tasks
+
+- Project Design & Planning
+  - Ideation Phase
+    - [x] Literature Survey
+    - [x] Problem Statement
+    - [x] Empathy Map
+    - [x] Brainstorm
+    - [x] Top 3 Ideas
+  - Project Design Phase 1
+    - [x] Proposed Solution
+    - [ ] Problem-Solution Fit
+    - [ ] Solution Architecture
