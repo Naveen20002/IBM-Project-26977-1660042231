@@ -43,3 +43,8 @@ Problem Statement :
   - Project Design Phase 1
     - [x] Proposed Solution
     - [x] Problem-Solution Fit
+  - Project Design Phase 2
+    - [x] Customer Journey
+    - [x] Functional requirements
+    - [x] Technical Architecture
+    - [x] Data flow diagram
