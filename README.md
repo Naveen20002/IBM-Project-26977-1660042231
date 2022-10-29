@@ -33,18 +33,4 @@ Problem Statement :
 ## PROJECT OVERVIEW
 ![image](https://user-images.githubusercontent.com/96305967/192242066-924d8cd1-f1f0-4176-b6d1-4bb6224a586e.png)
 
-### Tasks
 
-- Project Design & Planning
-  - Ideation Phase
-    - [x] Literature Survey
-    - [x] Empathy Map
-    - [x] Brainstorm
-  - Project Design Phase 1
-    - [x] Proposed Solution
-    - [x] Problem-Solution Fit
-  - Project Design Phase 2
-    - [x] Customer Journey
-    - [x] Functional requirements
-    - [x] Technical Architecture
-    - [x] Data flow diagram
